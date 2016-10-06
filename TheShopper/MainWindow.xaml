@@ -1,0 +1,24 @@
+﻿<Window x:Class="TheShopper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        
+        <TextBlock 
+            Text="TheShop"
+            FontSize="62"
+            FontFamily="Segoe UI"
+            />
+        
+        <ListBox 
+            Grid.Row="1"
+            ItemsSource="{Binding Products}"
+            HorizontalContentAlignment="Stretch"
+            />
+        
+    </Grid>
+</Window>

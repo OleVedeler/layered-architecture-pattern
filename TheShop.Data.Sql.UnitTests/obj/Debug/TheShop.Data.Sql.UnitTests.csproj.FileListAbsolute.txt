@@ -1,0 +1,5 @@
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql.UnitTests\bin\Debug\TheShop.Data.Sql.UnitTests.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql.UnitTests\bin\Debug\TheShop.Data.Sql.UnitTests.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql.UnitTests\obj\Debug\TheShop.Data.Sql.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql.UnitTests\obj\Debug\TheShop.Data.Sql.UnitTests.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql.UnitTests\obj\Debug\TheShop.Data.Sql.UnitTests.pdb

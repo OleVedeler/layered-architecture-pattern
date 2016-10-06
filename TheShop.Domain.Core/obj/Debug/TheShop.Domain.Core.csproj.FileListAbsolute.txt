@@ -1,0 +1,10 @@
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\bin\Debug\TheShop.Domain.Core.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\bin\Debug\TheShop.Domain.Core.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\obj\Debug\TheShop.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\obj\Debug\TheShop.Domain.Core.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\obj\Debug\TheShop.Domain.Core.pdb
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\bin\Debug\TheShop.Domain.Core.dll
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\bin\Debug\TheShop.Domain.Core.pdb
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\obj\Debug\TheShop.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\obj\Debug\TheShop.Domain.Core.dll
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Domain.Core\obj\Debug\TheShop.Domain.Core.pdb

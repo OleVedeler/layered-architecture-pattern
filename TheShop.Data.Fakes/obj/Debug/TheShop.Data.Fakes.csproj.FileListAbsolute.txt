@@ -1,0 +1,16 @@
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\TheShop.Data.Fakes.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\TheShop.Data.Fakes.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\FizzWare.NBuilder.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\TheShop.Domain.Core.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\TheShop.Domain.Core.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\obj\Debug\TheShop.Data.Fakes.csprojResolveAssemblyReference.cache
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\obj\Debug\TheShop.Data.Fakes.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\obj\Debug\TheShop.Data.Fakes.pdb
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\TheShop.Data.Fakes.dll
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\TheShop.Data.Fakes.pdb
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\FizzWare.NBuilder.dll
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\TheShop.Domain.Core.dll
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\bin\Debug\TheShop.Domain.Core.pdb
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\obj\Debug\TheShop.Data.Fakes.csprojResolveAssemblyReference.cache
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\obj\Debug\TheShop.Data.Fakes.dll
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Fakes\obj\Debug\TheShop.Data.Fakes.pdb

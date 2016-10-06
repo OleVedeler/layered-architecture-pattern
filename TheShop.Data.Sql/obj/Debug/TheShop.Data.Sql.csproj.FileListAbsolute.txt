@@ -1,0 +1,14 @@
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\bin\Debug\TheShop.Data.Sql.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\bin\Debug\TheShop.Data.Sql.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\bin\Debug\TheShop.Domain.Core.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\bin\Debug\TheShop.Domain.Core.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\obj\Debug\TheShop.Data.Sql.csprojResolveAssemblyReference.cache
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\obj\Debug\TheShop.Data.Sql.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\obj\Debug\TheShop.Data.Sql.pdb
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\bin\Debug\TheShop.Data.Sql.dll
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\bin\Debug\TheShop.Data.Sql.pdb
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\bin\Debug\TheShop.Domain.Core.dll
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\bin\Debug\TheShop.Domain.Core.pdb
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\obj\Debug\TheShop.Data.Sql.csprojResolveAssemblyReference.cache
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\obj\Debug\TheShop.Data.Sql.dll
+C:\Users\Ole\Dropbox\Archive\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Data.Sql\obj\Debug\TheShop.Data.Sql.pdb

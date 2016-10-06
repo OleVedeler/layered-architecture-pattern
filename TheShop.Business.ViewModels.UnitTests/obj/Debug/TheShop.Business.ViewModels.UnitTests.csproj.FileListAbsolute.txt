@@ -1,0 +1,5 @@
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.ViewModels.UnitTests\bin\Debug\TheShop.Business.ViewModels.UnitTests.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.ViewModels.UnitTests\bin\Debug\TheShop.Business.ViewModels.UnitTests.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.ViewModels.UnitTests\obj\Debug\TheShop.Business.ViewModels.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.ViewModels.UnitTests\obj\Debug\TheShop.Business.ViewModels.UnitTests.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.ViewModels.UnitTests\obj\Debug\TheShop.Business.ViewModels.UnitTests.pdb

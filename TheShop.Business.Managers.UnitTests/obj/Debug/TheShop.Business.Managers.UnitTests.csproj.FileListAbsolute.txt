@@ -1,0 +1,12 @@
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\bin\Debug\TheShop.Business.Managers.UnitTests.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\bin\Debug\TheShop.Business.Managers.UnitTests.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\bin\Debug\Moq.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\bin\Debug\Should.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\bin\Debug\TheShop.Business.Managers.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\bin\Debug\TheShop.Domain.Core.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\bin\Debug\TheShop.Business.Managers.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\bin\Debug\TheShop.Domain.Core.pdb
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\bin\Debug\Moq.xml
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\obj\Debug\TheShop.Business.Managers.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\obj\Debug\TheShop.Business.Managers.UnitTests.dll
+C:\Users\Ole\Dropbox\Master\4 Service & Integration Orientated Architecture\TheShop\TheShop.Business.Managers.UnitTests\obj\Debug\TheShop.Business.Managers.UnitTests.pdb
